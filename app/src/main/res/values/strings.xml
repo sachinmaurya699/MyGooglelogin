@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyGooglelogin</string>
+    <string name="id">default_web_client_id</string>
+</resources>

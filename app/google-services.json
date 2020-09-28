@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863070527754",
+    "firebase_url": "https://mylogin-6e5f8.firebaseio.com",
+    "project_id": "mylogin-6e5f8",
+    "storage_bucket": "mylogin-6e5f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863070527754:android:8d5db417e0107dc71d5af3",
+        "android_client_info": {
+          "package_name": "com.sossolution.mygooglelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863070527754-8n6ug7ni55245kihofjmterpr6bgqb7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeuMTJRZ-AdAhdUeH_scb0AACzGe9Q5Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863070527754-8n6ug7ni55245kihofjmterpr6bgqb7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
